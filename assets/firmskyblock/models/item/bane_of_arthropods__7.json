@@ -1,0 +1,6 @@
+{
+	"parent": "firmskyblock:item/bane_of_arthropods__1",
+	"textures": {
+		"layer2": "sophie:item/numlays/seven"
+	}
+}

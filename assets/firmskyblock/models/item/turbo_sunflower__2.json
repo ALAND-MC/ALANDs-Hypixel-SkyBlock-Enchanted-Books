@@ -1,0 +1,6 @@
+{
+	"parent": "firmskyblock:item/turbo_sunflower__1",
+	"textures": {
+		"layer2": "sophie:item/numlays/two"
+	}
+}

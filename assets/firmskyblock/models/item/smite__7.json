@@ -1,0 +1,6 @@
+{
+	"parent": "firmskyblock:item/smite__1",
+	"textures": {
+		"layer2": "sophie:item/numlays/seven"
+	}
+}
